@@ -1,0 +1,19 @@
+# Observed Python 3.12 runtime, pinned for the original G3 reproduction.
+catboost==1.2.8
+numpy==2.5.4
+graphviz==0.21
+matplotlib==3.11.2
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.67.0
+kiwisolver==1.5.1
+packaging==26.3
+pillow==13.0.0
+pyparsing==3.3.3
+python-dateutil==2.9.0.post0
+six==1.17.0
+pandas==3.0.6
+tzdata==2026.5
+scipy==1.18.1
+plotly==7.1.0
+narwhals==2.27.1

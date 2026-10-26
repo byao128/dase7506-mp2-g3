@@ -1,0 +1,46 @@
+{
+  "checkpoint_asset_bytes": 1827288,
+  "completed_utc": "2026-10-26T10:50:30.804657+00:00",
+  "data_manifest_sha256": "8b3721d458e48c87eab3a28f660e663981b10617b6e7321123c6ff30b1fbe825",
+  "dependencies": {
+    "catboost": "1.2.8",
+    "numpy": "2.5.4"
+  },
+  "external_wall_seconds": 2.7488358999835327,
+  "files": {
+    "predictions": "predictions.json",
+    "raw_score": "raw-score.json"
+  },
+  "freeze_sha256": "7b801d4b63247d0a4cd9e50303299a0a594a5467a56c97dd708130445a4564bd",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "processes": {
+    "predict": {
+      "pid": 59280,
+      "returncode": 0,
+      "started_unix": 1793011828.0555084,
+      "stderr": "predict.stderr.log",
+      "stdout": "predict.stdout.log",
+      "wall_seconds": 2.2491768999607302
+    },
+    "score": {
+      "pid": 61276,
+      "returncode": 0,
+      "started_unix": 1793011830.3277695,
+      "stderr": "score.stderr.log",
+      "stdout": "score.stdout.log",
+      "wall_seconds": 0.4651088999817148
+    }
+  },
+  "purpose": "fixed-checkpoint-reproduction; not method selection",
+  "python": "3.12.14",
+  "schema": 1,
+  "split": "test",
+  "started_unix": 1793011828.0555084,
+  "status": "completed",
+  "thread_environment": {
+    "MKL_NUM_THREADS": "4",
+    "NUMEXPR_NUM_THREADS": "4",
+    "OMP_NUM_THREADS": "4",
+    "OPENBLAS_NUM_THREADS": "4"
+  }
+}

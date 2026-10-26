@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "package": "dase7506-mp2-original-g3",
+  "prepared_date": "2026-10-26",
+  "student_id": "3036779750",
+  "github_account": "byao128",
+  "suggested_repository": "byao128/dase7506-mp2-g3",
+  "repository_created": false,
+  "git_commit": null,
+  "git_commit_status": "pending-user-publication",
+  "suggested_tag": "g3-original-v1",
+  "public_code_url": null,
+  "public_checkpoint_url": null,
+  "code_tree_sha256": "3277c776f8afaffd30ef01e586d000d3ee0615b31f74e086045a5059e7d64a76",
+  "code_tree_hash_algorithm": "SHA-256 of concatenated UTF-8 lines: package-root-relative POSIX path (including the code/ prefix), two ASCII spaces, lowercase file SHA-256, and one LF byte. Sort case-sensitively by that path. Include every non-cache file under code/; exclude __pycache__ and .pyc files.",
+  "original_freeze_sha256": "7b801d4b63247d0a4cd9e50303299a0a594a5467a56c97dd708130445a4564bd",
+  "checkpoint": "artifacts/group-tree-v1/bundle",
+  "method": "code/submission_group_tree.py",
+  "status": "prepared-for-review-not-published-or-submitted",
+  "report_title": "Answer-Group Reranking for LLM Solution Selection"
+}

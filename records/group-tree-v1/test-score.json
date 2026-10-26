@@ -1,0 +1,20 @@
+{
+  "accuracy": 81.5845824411135,
+  "asset_bytes": 1827288,
+  "checkpoint": "..\\artifacts\\group-tree-v1\\bundle",
+  "correct": 381,
+  "external_seconds": 3.301196799991885,
+  "freeze": "..\\results\\group-tree-v1\\freeze.json",
+  "method": "code/submission_group_tree.py",
+  "n": 467,
+  "prediction_file": "..\\results\\group-tree-v1\\test-score-predictions.json",
+  "protocol": "dase7506-mp2-open-hard-verifier-v5",
+  "scoring_seconds": 0.05342630000086501,
+  "split": "test",
+  "thread_environment": {
+    "MKL_NUM_THREADS": "4",
+    "NUMEXPR_NUM_THREADS": "4",
+    "OMP_NUM_THREADS": "4",
+    "OPENBLAS_NUM_THREADS": "4"
+  }
+}

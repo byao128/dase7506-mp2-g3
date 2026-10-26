@@ -1,0 +1,27 @@
+{
+  "asset_bytes_excluding_manifest": 1826461,
+  "files": {
+    "b0/model.json": {
+      "bytes": 22999,
+      "sha256": "f4c0ab2028750a988c19a29967c5d6b8298cbc9dfe20e5b7703b850741c63068"
+    },
+    "b0/weights.npz": {
+      "bytes": 13452,
+      "sha256": "7da44749022d50fa405b0fb47749ca51c84b1d7cd9cd133f2e131ed2efa7bd23"
+    },
+    "inference.json": {
+      "bytes": 23273,
+      "sha256": "45a2c8cd369b36938bc8d0b0ab3ed37071b5a89d13adac732053c12530070b5f"
+    },
+    "pca.npz": {
+      "bytes": 271612,
+      "sha256": "253abfcc07fb2e940ec7217e9e2ea2528b30a75fe9619f5f2f90cfce07d359bd"
+    },
+    "tree.json": {
+      "bytes": 1495125,
+      "sha256": "ba4235e725b5145fddf5bf332b911ff0fa4bd2cde6dc3e907690ee28a6b54cbe"
+    }
+  },
+  "fit_seconds": 70.36841029999778,
+  "format": "group-tree-v1"
+}

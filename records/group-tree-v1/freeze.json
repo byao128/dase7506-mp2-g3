@@ -1,0 +1,23 @@
+{
+  "asset_bytes": 1827288,
+  "asset_limit_bytes": 16777216,
+  "checkpoint": "artifacts/group-tree-v1/bundle",
+  "format": "group-tree-v1-freeze",
+  "method": "code/submission_group_tree.py",
+  "sha256": {
+    "artifacts/group-tree-v1/bundle/MANIFEST.json": "4f9b94d834ef4b6601fb398848a5985a4abfa5d94f1cd97245fb0e9bee6b29fe",
+    "artifacts/group-tree-v1/bundle/b0/model.json": "f4c0ab2028750a988c19a29967c5d6b8298cbc9dfe20e5b7703b850741c63068",
+    "artifacts/group-tree-v1/bundle/b0/weights.npz": "7da44749022d50fa405b0fb47749ca51c84b1d7cd9cd133f2e131ed2efa7bd23",
+    "artifacts/group-tree-v1/bundle/inference.json": "45a2c8cd369b36938bc8d0b0ab3ed37071b5a89d13adac732053c12530070b5f",
+    "artifacts/group-tree-v1/bundle/pca.npz": "253abfcc07fb2e940ec7217e9e2ea2528b30a75fe9619f5f2f90cfce07d359bd",
+    "artifacts/group-tree-v1/bundle/tree.json": "ba4235e725b5145fddf5bf332b911ff0fa4bd2cde6dc3e907690ee28a6b54cbe",
+    "code/common.py": "aecd10f7ff2e9e82ac5673d34d576e122caac51d2caaa7c7a8aa05906da51f6c",
+    "code/features.py": "a59572deefe5ea54b9e7d1017ca1da34d0be37cd9484b539771c6bb06fdcbdfd",
+    "code/group_fusion.py": "a8ee75e52599838d7e86c5c19501cb9c3eccfc415a71fa378abea4e0800cafb8",
+    "code/group_rank_features.py": "c1409591cb18337881a4ca3da7dc9db626159964cd64593b3081e610c5580545",
+    "code/group_tree_ranker.py": "ee311800eeb682cc86ddd3e35beaf788936d9b35d821646aadd987f71beb70e3",
+    "code/models.py": "e42526c6d06967db67f9147506cb42e996d937af9896366ef6e0f47f0f1778e7",
+    "code/submission_group_tree.py": "d93ae8d71d70b2c07dfdcaa9b7cad1d4310cfc607a196f37a9f58d3b0e67a831",
+    "code/verifier.py": "13570325d6540c908a56eed0e3ec663633ef08b3f6637f41f28ae596075c8f4e"
+  }
+}
